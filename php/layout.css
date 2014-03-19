@@ -1,0 +1,57 @@
+body{
+	background: #FFF4CB none repeat right top;
+	color: #8DCDC1;
+	font: 1em "Lucida Grande",Helvetica,Arial,Verdana,sans-serif;
+}
+
+a {
+	color: #21B6A8;
+	text-decoration: none;
+	font-weight:bold;
+}
+
+a:hover, a:active {
+	color: #177F75;
+}
+
+a.title {
+	color: #177F75;
+	text-decoration: none;
+}
+
+a.title:hover, a.title:active {
+	color: #21B6A8;
+}
+
+p.erro{
+	color: red;
+}
+
+label{
+	width:88px;
+	float:left;
+}
+
+td{
+	width:100px;
+	font-weight:bold;
+}
+
+td.period{
+	width:25px;
+	font-weight:bold;
+}
+
+tr{
+	height:30px;
+	font-weight:bold;
+}
+
+tr.firstline{
+	color:#177F75;
+	font-weight:bold;
+}
+
+span{
+	color:#177F75;
+}
